@@ -11,4 +11,4 @@ The program is command line based, and is relatively straightforward to use. Mak
 
 **Demo**
 
-There are included images of the before-and-after effects of the manipulation.
+There are included images of the before-and-after effects of the manipulation. The images are not my own.
