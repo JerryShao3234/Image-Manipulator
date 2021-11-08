@@ -5,7 +5,7 @@
  * Purpose: A program that performs basic image manipulations on 
  * 24-bit uncompressed .bmp image files.
  */
-#define _CRT_SECURE_NO_WARNINGS
+#define _CRT_SECURE_NO_WARNINGS //for VS
 #include <stdio.h>
 #include <stdlib.h>
 #define FILE_NAME_SIZE 25
