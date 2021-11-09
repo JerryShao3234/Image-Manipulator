@@ -7,7 +7,7 @@ This is a program that allows users to manipulate .bmp image files in the follow
 - coverting to black and white
 - inverting the colours
 
-The program is command line based, and is relatively straightforward to use. Make sure image files are in the correct project directory.
+The program is entirely command line based, and is relatively straightforward to use. Make sure image files are in the correct project directory.
 
 **Demo**
 
