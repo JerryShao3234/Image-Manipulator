@@ -1,6 +1,7 @@
 
 /*
  * Author: Paul Carter
+ * Modified by: Jerry Shao
  * Date: October 18, 2009
  * Purpose: A program that performs basic image manipulations on 
  * 24-bit uncompressed .bmp image files.
